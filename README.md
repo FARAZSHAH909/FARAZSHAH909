@@ -7,10 +7,9 @@
 - **Email**: [farazshah9095@gmail.com)
 - **GitHub**: [(https://github.com/FARAZSHAH909))
 - **phone-number** : 03171168118
-- 
+  
 Feel free to reach out anytime!
 - 😄 Pronouns: ... he /him
-- ⚡ Fun fact: ...
 
 <!---
 FARAZSHAH909/FARAZSHAH909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
