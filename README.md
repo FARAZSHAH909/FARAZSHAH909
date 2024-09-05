@@ -7,6 +7,7 @@
 - **Email**: [farazshah9095@gmail.com)
 - **GitHub**: [(https://github.com/FARAZSHAH909))
 - **phone-number** : 03171168118
+- 
 Feel free to reach out anytime!
 - 😄 Pronouns: ... he /him
 - ⚡ Fun fact: ...
