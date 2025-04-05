@@ -15,7 +15,7 @@ Email: farazshah9095@gmail.com
 
 GitHub: https://github.com/FARAZSHAH909
 
-Phone: 03171168118
+Phone: 03183052533
 
 Pronouns: he/him
 
