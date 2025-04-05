@@ -1,15 +1,15 @@
 👋 Hi, I’m FARAZSHAH
 About Me:
-I am a passionate Front-End Developer and 2nd-year college student at SMIT. With a solid foundation in web design (HTML, CSS), I am expanding my skill set into web and mobile app development. I am eager to learn, innovate, and create impactful projects. Currently, I am refining my skills in JavaScript, React, TypeScript, and Next.js to build high-quality user experiences.
+I’m a Front-End Developer and a student in my 2nd year at SMIT. I started by learning web design with HTML and CSS. Now, I’m learning web and mobile app development. I’m excited to grow my skills and work on projects that matter.
 
-Current Focus:
-I'm focused on mastering modern web and mobile development technologies like React, Next.js, Redux, and API integration. I’m also gaining hands-on experience through internships, where I contribute to real-world projects.
+Currently Learning:
+I am learning more about React, JavaScript, TypeScript, and Next.js. I’m also getting experience through my internship, where I work on real projects.
 
-Looking for:
-I am open to collaborating on exciting web and mobile app development projects. If you have an opportunity for me or would like to discuss ideas, feel free to reach out!
+Looking For:
+I’m open to collaborating on web and app projects. If you need help or want to discuss ideas, feel free to reach out!
 
-How to Reach Me:
-If you'd like to get in touch for collaboration or feedback, here’s how you can reach me:
+How to Contact Me:
+You can contact me by:
 
 Email: farazshah9095@gmail.com
 
@@ -20,22 +20,19 @@ Phone: 03183052533
 Pronouns: he/him
 
 My Skills
-Front-End Technologies: HTML5, CSS3, JavaScript, React, Next.js, TypeScript, Tailwind CSS
+Web Development: HTML5, CSS3, JavaScript, React, Next.js, TypeScript, Tailwind CSS
 
 State Management: Redux
 
-UI/UX Design: Building intuitive, responsive designs without using Figma
+UI/UX Design: Creating user-friendly designs
 
 Version Control: Git, GitHub
 
-API Integration: Working with RESTful APIs for dynamic web applications
+API Integration: Working with APIs to make websites dynamic
 
 Why Work with Me?
-I thrive on creating responsive, user-friendly websites and applications.
+I enjoy making websites that are easy to use and look great on any device.
 
-I'm always exploring new tools and techniques to improve my code and deliver high-quality work.
+I’m always learning new technologies to improve my work.
 
-I bring a strong passion for learning and applying the latest industry trends in web and mobile app development.
-
-GitHub Repository Information
-<!--- FARAZSHAH909/FARAZSHAH909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+I am passionate about building websites and apps that help people.
